@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MTech</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="volver">Volver</string>
+    <string name="buscar">Buscar</string>
+    <string name="registrar">Registrar</string>
+    <string name="modificar">Modificar</string>
+    <string name="cita">Crear Cita</string>
+    <string name="cliente">Clientes</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="cedula">Cedula</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="direccion">Direccion</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="diag">Diagnostico</string>
+    <string name="descr">Descripcion</string>
+    <string name="fecha">Fecha</string>
+    <string name="hora">Hora</string>
+</resources>
